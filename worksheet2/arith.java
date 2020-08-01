@@ -47,7 +47,7 @@ class operation{
 
 /**
  *
- * @author velmurugan
+ * @author Desktop Pc
  */
 public class arith {
     public static void main(String[] args){

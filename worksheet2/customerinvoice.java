@@ -3,7 +3,7 @@ package worksheet2;
 import java.util.Scanner.*;
 /**
  *
- * @author velmurugan
+ * @author Desktop Pc
  */
 public class customerinvoice
 {

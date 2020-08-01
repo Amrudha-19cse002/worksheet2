@@ -54,7 +54,7 @@ class Stud
 /**
 
 *
- * @author velmurugan
+ * @author Desktop Pc
  */
 public class studentmark
      {
